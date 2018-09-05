@@ -4,6 +4,7 @@
                 {
             ChangeCount = 1;
             Name = "Schedule 1";
+            Path = "~~schedule~~Schedule 1";
             Schedule =             (
                                 {
                     Num = 1;
