@@ -1,0 +1,13 @@
+﻿connect any item of ("iPhone_X_1122_IOS","Pixel_XL_712_Android")
+show remote
+
+if connectioninfo().Name = "iPhone_X_1122_IOS"
+	set the initialsuites to "WalmartLabsIOS"
+	Launchapp "com.tripadvisor.LocalPicks"
+else
+	set the initialsuites to "WalmarLabsAndroid"
+	Launchapp "com.tripadvisor.tripadvisor"
+end if
+--Tap (Image:"Hotels", WaitFor:20)
+--tap text:"Restaurants", searchrectangle:screenpart(mid)
+Dosomething

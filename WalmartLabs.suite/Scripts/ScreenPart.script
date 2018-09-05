@@ -1,0 +1,20 @@
+﻿--ScreenPart function returning part of the screen
+-- 4 numbers between 0 and 1 to pinpoint TopLeft and BottomRight of the erea (0,0,1,1)
+-- keyword with or without offset (mid,2)
+params TLx,TLy,BRx,BRy 
+
+if param(1) is not a number
+	if param(1) = Top then set (TLx,TLy,BRx,BRy) to (0,0,1,.55)
+	if param(1) = TL or param(1) = TopLeft then set (TLx,TLy,BRx,BRy) to (0,0,.55,.55)
+	if param(1) = TR or param(1) = TopRight then set (TLx,TLy,BRx,BRy) to (0.45,0,1,.55)
+	if param(1) = Bot or param(1) = Bottom then set (TLx,TLy,BRx,BRy) to (0,0.45,1,1)
+	if param(1) = BL or param(1) = BotLeft then set (TLx,TLy,BRx,BRy) to (0,0.45,.55,1) 
+	if param(1) = BR or param(1) = BotRight then set (TLx,TLy,BRx,BRy) to (0.45,0.45,1,1) 
+	if param(1) = Mid or param(1) = Middle then set (TLx,TLy,BRx,BRy) to (0,0.4-param(2)/10,1,.6+param(2)/10)
+	if param(1) =Left then set (TLx,TLy,BRx,BRy) to (0,0,.55,1)
+	if param(1) =Right then set (TLx,TLy,BRx,BRy) to (0.45,0,1,1)
+end if
+
+Return (round(TLx * RemoteScreenSize().x), round(TLy * RemoteScreenSize().y), round(BRx * RemoteScreenSize().x),round(BRy * RemoteScreenSize().y))
+
+
