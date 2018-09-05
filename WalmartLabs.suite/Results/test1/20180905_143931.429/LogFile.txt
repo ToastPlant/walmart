@@ -1,0 +1,9 @@
+﻿2018-09-05 14:39:31.431 +0530	START		Running test1.script
+2018-09-05 14:39:31.506 +0530	connect		iPhone_X_1122_IOS:(null)	1	on_test1	test1.script
+2018-09-05 14:39:31.550 +0530	show		remote	2	on_test1	test1.script
+2018-09-05 14:39:31.649 +0530	set		INITIALSUITES = "WalmartLabsIOS"	5	on_test1	test1.script
+2018-09-05 14:39:31.651 +0530	launchapp		com.tripadvisor.LocalPicks	6	on_test1	test1.script
+2018-09-05 14:39:33.625 +0530	tap	Hotels	at (194, 786)	11	on_test1	test1.script
+2018-09-05 14:39:33.644 +0530	Log		Joost	1	on_dosomething	/Users/joostvoeten/Documents/WalmartLabsIOS.suite/Scripts/Dosomething.script
+2018-09-05 14:39:34.917 +0530	EndTestCase		(Duration:"3.484453", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:39:31 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-09-05 14:39:34.936 +0530	SUCCESS		Execution Time 0:00:03 test1.script

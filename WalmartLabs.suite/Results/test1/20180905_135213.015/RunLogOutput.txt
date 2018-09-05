@@ -1,0 +1,5 @@
+05/09/2018, 13:52:13	START		Running test1.script
+05/09/2018, 13:52:13	Log		(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"iPhone_X_1122_IOS", PortNum:"5910", Reverse:"False", ScreenSize:(1125,2436), ServerID:"localhost", Status:"Connected", Type:"vnc", Visible:"True")
+05/09/2018, 13:52:13	launchapp		com.apple.Preferences
+05/09/2018, 13:52:14	EndTestCase		(Duration:"1.009441", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 13:52:13 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 13:52:14	SUCCESS		Execution Time 0:00:01 test1.script

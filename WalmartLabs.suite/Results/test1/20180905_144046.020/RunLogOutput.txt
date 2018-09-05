@@ -1,0 +1,5 @@
+05/09/2018, 14:40:46	START		Running test1.script
+05/09/2018, 14:40:46	connect		Pixel_XL_712_Android:(null)
+05/09/2018, 14:40:46	show		remote
+05/09/2018, 14:40:47	EndTestCase		(Duration:"1.422765", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 14:40:46 +0530", Successes:"0", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 14:40:50	FAILURE	Screen_Error.png	Invalid Property Cannot set global property 'INITALSUITES' -- Execution Time 0:00:01 test1.script

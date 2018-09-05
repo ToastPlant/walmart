@@ -1,0 +1,7 @@
+﻿2018-09-05 14:22:09.956 +0530	START		Running test1.script
+2018-09-05 14:22:09.990 +0530	connect		Pixel_XL_712_Android:(null)	1	on_test1	test1.script
+2018-09-05 14:22:10.067 +0530	show		remote	2	on_test1	test1.script
+2018-09-05 14:22:10.079 +0530	launchapp		com.tripadvisor.tripadvisor	8	on_test1	test1.script
+2018-09-05 14:22:19.981 +0530	tap	(TEXT:"Restaurants")	at (240, 1500)	11	on_test1	test1.script
+2018-09-05 14:22:20.981 +0530	EndTestCase		(Duration:"11.023789", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:22:09 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-09-05 14:22:20.999 +0530	SUCCESS		Execution Time 0:00:11 test1.script

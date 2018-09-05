@@ -1,0 +1,6 @@
+05/09/2018, 14:01:56	START		Running test1.script
+05/09/2018, 14:01:56	connect		Pixel_XL_712_Android:(null)
+05/09/2018, 14:01:56	show		remote
+05/09/2018, 14:01:57	launchapp		com.tripadvisor.tripadvisor
+05/09/2018, 14:01:57	EndTestCase		(Duration:"0.985482", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:01:56 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 14:01:57	SUCCESS		Execution Time 0:00:00 test1.script

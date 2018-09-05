@@ -1,0 +1,4 @@
+05/09/2018, 10:37:10	START		Running test1.script
+05/09/2018, 10:37:10	Log		(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Tutorial Connection", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"True")
+05/09/2018, 10:37:11	EndTestCase		(Duration:"1.116067", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 10:37:10 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 10:37:11	SUCCESS		Execution Time 0:00:01 test1.script

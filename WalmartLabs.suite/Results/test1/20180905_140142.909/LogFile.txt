@@ -1,0 +1,6 @@
+﻿2018-09-05 14:01:42.910 +0530	START		Running test1.script
+2018-09-05 14:01:46.039 +0530	connect		Pixel_XL_712_Android:(null)	1	on_test1	test1.script
+2018-09-05 14:01:46.221 +0530	show		remote	2	on_test1	test1.script
+2018-09-05 14:01:46.225 +0530	launchapp		com.tripadvisor.tripadvisor	8	on_test1	test1.script
+2018-09-05 14:01:47.073 +0530	EndTestCase		(Duration:"4.160804", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:01:42 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-09-05 14:01:47.133 +0530	SUCCESS		Execution Time 0:00:04 test1.script

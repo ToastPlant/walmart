@@ -1,0 +1,9 @@
+﻿2018-09-05 14:41:10.249 +0530	START		Running test1.script
+2018-09-05 14:41:10.318 +0530	connect		Pixel_XL_712_Android:(null)	1	on_test1	test1.script
+2018-09-05 14:41:10.413 +0530	show		remote	2	on_test1	test1.script
+2018-09-05 14:41:10.468 +0530	LogWarning		Unable to find suite: WalmartLabsAndroid	8	on_test1	test1.script
+2018-09-05 14:41:10.469 +0530	set		INITIALSUITES = "WalmartLabsAndroid"	8	on_test1	test1.script
+2018-09-05 14:41:10.489 +0530	launchapp		com.tripadvisor.tripadvisor	9	on_test1	test1.script
+2018-09-05 14:41:10.498 +0530	Log		Joost	1	on_dosomething	/Users/joostvoeten/Documents/WalmartLabsIOS.suite/Scripts/Dosomething.script
+2018-09-05 14:41:11.738 +0530	EndTestCase		(Duration:"1.487694", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:41:10 +0530", Successes:"1", TestCase:"test1.script", Warnings:"1")
+2018-09-05 14:41:11.760 +0530	SUCCESS		Execution Time 0:00:01 test1.script

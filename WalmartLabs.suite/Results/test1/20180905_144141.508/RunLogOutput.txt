@@ -1,0 +1,8 @@
+05/09/2018, 14:41:41	START		Running test1.script
+05/09/2018, 14:41:41	connect		Pixel_XL_712_Android:(null)
+05/09/2018, 14:41:41	show		remote
+05/09/2018, 14:41:41	set		INITIALSUITES = "WalmarLabsAndroid"
+05/09/2018, 14:41:41	launchapp		com.tripadvisor.tripadvisor
+05/09/2018, 14:41:41	Log		Voeten
+05/09/2018, 14:41:42	EndTestCase		(Duration:"1.464565", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:41:41 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 14:41:42	SUCCESS		Execution Time 0:00:01 test1.script

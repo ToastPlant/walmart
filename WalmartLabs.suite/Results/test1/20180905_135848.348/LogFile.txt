@@ -1,0 +1,4 @@
+﻿2018-09-05 13:58:48.349 +0530	START		Running test1.script
+2018-09-05 13:58:48.385 +0530	launchapp		com.tripadvisor.LocalPicks	2	on_test1	test1.script
+2018-09-05 13:58:49.378 +0530	EndTestCase		(Duration:"1.026917", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 13:58:48 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-09-05 13:58:49.394 +0530	SUCCESS		Execution Time 0:00:01 test1.script

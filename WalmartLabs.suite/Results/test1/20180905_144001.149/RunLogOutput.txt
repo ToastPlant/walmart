@@ -1,0 +1,9 @@
+05/09/2018, 14:40:01	START		Running test1.script
+05/09/2018, 14:40:01	connect		iPhone_X_1122_IOS:(null)
+05/09/2018, 14:40:01	show		remote
+05/09/2018, 14:40:01	set		INITIALSUITES = "WalmartLabsIOS"
+05/09/2018, 14:40:01	launchapp		com.tripadvisor.LocalPicks
+05/09/2018, 14:40:07	tap	Hotels	at (194, 786)
+05/09/2018, 14:40:07	Log		Joost
+05/09/2018, 14:40:09	EndTestCase		(Duration:"7.90562", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:40:01 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+05/09/2018, 14:40:09	SUCCESS		Execution Time 0:00:07 test1.script
