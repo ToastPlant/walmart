@@ -1,0 +1,9 @@
+06/09/2018, 13:19:35	START		Running test4.script
+06/09/2018, 13:19:38	imagelocation	(TEXT:"Other")	at (1160, 999)
+06/09/2018, 13:19:40	imagefound	UntickedTickbox	found at (1168, 1009)
+06/09/2018, 13:19:40	click		at (1168, 1009)
+06/09/2018, 13:19:43	imagelocation	(TEXT:"Eggplant Performance")	at (1161, 956)
+06/09/2018, 13:19:44	imagefound	UntickedTickbox	found at (1168, 967)
+06/09/2018, 13:19:45	click		at (1168, 967)
+06/09/2018, 13:19:47	EndTestCase		(Duration:"11.99521", Errors:"0", Exceptions:"0", StartTime:"2018-09-06 13:19:35 +0530", Successes:"1", TestCase:"test4.script", Warnings:"0")
+06/09/2018, 13:19:47	SUCCESS		Execution Time 0:00:11 test4.script

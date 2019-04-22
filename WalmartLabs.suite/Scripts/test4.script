@@ -1,0 +1,5 @@
+﻿set myoption to "Eggplant AI"
+if imagefound( image:"UntickedTickbox", searchrectangle:(imagelocation(text:myoption,ValidWords:"*", Hotspot:(-48,-7)),FoundImageLocation()+(50,20))) then click foundimagelocation()
+
+
+if imagefound( image:"UntickedTickbox", searchrectangle:(imagelocation(text:"Eggplant Performance", Hotspot:(-18,-7),searchrectangle:screenpart(BR)),FoundImageLocation()+(20,20))) then click foundimagelocation()
