@@ -1,0 +1,5 @@
+06/09/2018, 13:14:41	START		Running test4.script
+06/09/2018, 13:14:43	imagelocation	(TEXT:"Other")	at (1138, 1001)
+06/09/2018, 13:14:43	Exception		Image Property List did not contain "ImageName" property
+06/09/2018, 13:14:44	EndTestCase		(Duration:"3.158493", Errors:"1", Exceptions:"1", StartTime:"2018-09-06 13:14:41 +0530", Successes:"0", TestCase:"test4.script", Warnings:"0")
+06/09/2018, 13:14:45	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:03 test4.script

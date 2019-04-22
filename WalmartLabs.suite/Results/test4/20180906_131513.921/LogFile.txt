@@ -1,0 +1,5 @@
+﻿2018-09-06 13:15:13.922 +0530	START		Running test4.script
+2018-09-06 13:15:16.369 +0530	imagelocation	(TEXT:"Other")	at (1168, 1001)	1	on_test4	test4.script
+2018-09-06 13:15:22.508 +0530	imagefound	UntickedTickbox	Unable to Find Image UntickedTickbox	1	on_test4	test4.script
+2018-09-06 13:15:23.901 +0530	EndTestCase		(Duration:"9.976822", Errors:"0", Exceptions:"0", StartTime:"2018-09-06 13:15:13 +0530", Successes:"1", TestCase:"test4.script", Warnings:"0")
+2018-09-06 13:15:23.947 +0530	SUCCESS		Execution Time 0:00:09 test4.script

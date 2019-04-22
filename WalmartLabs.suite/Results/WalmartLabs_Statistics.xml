@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="Untitled-API">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-09-07 15:29:04 +0530</FirstRun>
+  <LastRun>2018-09-07 15:29:04 +0530</LastRun>
+  <TotalTimeOnSuccess>1.225450</TotalTimeOnSuccess>
+ </script>
  <script name="test1">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>21</NumberOfRuns>
@@ -7,5 +15,13 @@
   <FirstRun>2018-09-05 10:37:10 +0530</FirstRun>
   <LastRun>2018-09-05 14:41:41 +0530</LastRun>
   <TotalTimeOnSuccess>64.283950</TotalTimeOnSuccess>
+ </script>
+ <script name="test4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-09-06 13:14:41 +0530</FirstRun>
+  <LastRun>2018-09-06 13:19:35 +0530</LastRun>
+  <TotalTimeOnSuccess>130.767762</TotalTimeOnSuccess>
  </script>
 </statistics>

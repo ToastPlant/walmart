@@ -1,0 +1,9 @@
+﻿2018-09-06 13:19:35.599 +0530	START		Running test4.script
+2018-09-06 13:19:38.753 +0530	imagelocation	(TEXT:"Other")	at (1160, 999)	1	on_test4	test4.script
+2018-09-06 13:19:40.406 +0530	imagefound	UntickedTickbox	found at (1168, 1009)	1	on_test4	test4.script
+2018-09-06 13:19:40.494 +0530	click		at (1168, 1009)	1	on_test4	test4.script
+2018-09-06 13:19:43.297 +0530	imagelocation	(TEXT:"Eggplant Performance")	at (1161, 956)	4	on_test4	test4.script
+2018-09-06 13:19:44.993 +0530	imagefound	UntickedTickbox	found at (1168, 967)	4	on_test4	test4.script
+2018-09-06 13:19:45.082 +0530	click		at (1168, 967)	4	on_test4	test4.script
+2018-09-06 13:19:47.596 +0530	EndTestCase		(Duration:"11.99521", Errors:"0", Exceptions:"0", StartTime:"2018-09-06 13:19:35 +0530", Successes:"1", TestCase:"test4.script", Warnings:"0")
+2018-09-06 13:19:47.630 +0530	SUCCESS		Execution Time 0:00:11 test4.script
