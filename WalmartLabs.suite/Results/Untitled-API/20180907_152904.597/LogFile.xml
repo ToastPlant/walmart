@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled_apitest" package="WalmartLabs.suite" timestamp="2018-09-07 15:29:04.597 +0530"
+ tests="1"  failures="0" errors="0" time="1.225450">
+  <properties>
+   <property name="RunDate" value="2018-09-07 15:29:04.597 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Untitled.apitest" assertions="1" status="success"  time="1.220987">
+  </testcase>
+ </testsuite>
+</testsuites>
